@@ -10,6 +10,6 @@ public class TestSCript1 : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        Debug.Log("Blatg");
+        Debug.Log("Blatg 4th commit text");
 	}
 }
